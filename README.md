@@ -84,7 +84,7 @@ The following figures illustrate representative outputs from the final reported 
 
 ### Grad-CAM Visualization
 
-![Grad-CAM](results/figures/gradcam.png)
+![Grad-CAM](results/figures/gradcam_overview.png)
 
 
 ## Requirements
