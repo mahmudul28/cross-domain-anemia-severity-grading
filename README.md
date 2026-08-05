@@ -162,7 +162,7 @@ The `results/tables/` directory contains quantitative data from the experimental
 | `cv_results_3class_v4.csv` | Output metrics for the 5-fold cross-validation on the 3-class severity task. |
 | `loco_results_v4.csv` | Performance metrics for the Leave-One-Cohort-Out experiments (e.g., Italy to India). |
 | `bootstrap_ci_macro_f1_v4.csv` | 95% Bootstrap confidence intervals calculated for Macro F1 scores. |
-| `few_shot_calibration_curve.csv` | Calibration data used for conformal prediction analysis. |
+| `few_shot_calibration_curve.csv` | Calibration curve data from the few-shot target-domain adaptation experiment. |
 
 ## Methodology Summary
 
